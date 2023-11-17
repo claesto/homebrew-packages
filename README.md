@@ -1,4 +1,4 @@
-# Homebrew packages 
+# Homebrew packages
 
 > Useful Homebrew packages for macOS
 
@@ -37,11 +37,11 @@
 - [`arc`](https://formulae.brew.sh/cask/arc) (Chromium based browser)
 - [`audacity`](https://formulae.brew.sh/cask/audacity) (Multi-track audio editor and recorder)
 - [`discord`](https://formulae.brew.sh/cask/discord) (Voice and text chat software)
-- [`firefox`](https://formulae.brew.sh/cask/firefox) (Web browser)
 - [`font-hack-nerd-font`](https://formulae.brew.sh/cask/font-hack-nerd-font) ()
 - [`font-jetbrains-mono`](https://formulae.brew.sh/cask/font-jetbrains-mono) (JetBrains created font for developers)
 - [`gnucash`](https://formulae.brew.sh/cask/gnucash) (Double-entry accounting program)
 - [`iina`](https://formulae.brew.sh/cask/iina) (Free and open-source media player)
+- [`librewolf`](https://formulae.brew.sh/cask/librewolf) (Alternative to Firefox)
 - [`macdown`](https://formulae.brew.sh/cask/macdown) (Open-source Markdown editor)
 - [`macpass`](https://formulae.brew.sh/cask/macpass) (Open-source, KeePass-client and password manager)
 - [`meld`](https://formulae.brew.sh/cask/meld) (Visual diff and merge tool)

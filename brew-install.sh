@@ -44,11 +44,11 @@ casks=(
     arc
     audacity
     discord
-    firefox
     font-hack-nerd-font
     font-jetbrains-mono
     gnucash
     iina
+		librewolf
     macdown
     macpass
     meld
